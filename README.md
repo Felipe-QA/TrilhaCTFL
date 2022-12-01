@@ -1,4 +1,7 @@
 # Objetivo
+  
+  O objetivo deste documento é resumir e detalhar de maneira objetiva todo o conteúdo do Syllabus para facilitar o compreendimento e a habilidade de reconhecer, compreender, analisar e saber aplicar o conhecimento. Com isso, será possível planejar um plano de estudo para se preparar para o exame CTFL.
+
 
 # Fundamento de Teste
   - O que é teste?
