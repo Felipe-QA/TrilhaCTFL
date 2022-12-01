@@ -4,7 +4,7 @@
 
 
 # Fundamento de Teste
-  <a href="https://github.com/Felipe-QA/TrilhaCTFL/blob/main/link1.md">- O que é teste?</a>
+  <a href="https://github.com/Felipe-QA/TrilhaCTFL/blob/main/FundamentoDeTeste.md">- O que é teste?</a>
   - Porque testar?
   - Os setes princípíos de teste.
   - Erros, defeitos e falhas.
